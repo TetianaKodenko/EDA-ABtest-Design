@@ -16,7 +16,7 @@ A 4-option desktop navigation menu ranked highest (Score: 27) as it removes the 
 3. **Statistical Setup:**
    * **Baseline:** 25% scroll rate
    * **Target:** 35% scroll rate (a 40% relative uplift).
-   * **Requirements:** Calculated that 160 visitors per variation were needed to detect the effect, achievable in ~10 days based on a traffic volume of 1,000 visitors/month.
+   * **Requirements:** Simulated a full 1-month test using the total traffic of 1,000 visitors/month (500 visitors per variation) to ensure robust data collection.
    * **Simulated Evaluation:** A successful test run at these metrics yielded a 99% Confidence Level and 99.5% Observed Power.
 
 ## Key Business Insights
